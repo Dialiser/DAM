@@ -161,7 +161,7 @@ The maintainers of the project will review your PR, provide feedback, and merge 
 
 ## Contact
 
-If you have any questions or concerns regarding this project, feel free to contact Rajkumar Khatua at rajkhatua2020@gmail.com.
+If you have any questions or concerns regarding this project, feel free to contact Satyam Bhardwaj U21CS115@coed.svnit.ac.in
 
 Happy coding! 🚀
 
